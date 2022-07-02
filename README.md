@@ -30,7 +30,7 @@ I scripted a python script, which automate the process to convert image to its B
 ![wp4428216-stranger-things-season-3-hd-wallpapers](https://user-images.githubusercontent.com/98146902/177000817-d8a4547c-1560-4fef-8ded-6f6fd411aa00.png)
 
 # :name_badge:License 
-This project is licensed under [MIT License](https://github.com/beingvikasbhadu/Search-on-YouTube-by-Pyhon-Script/blob/master/LICENSE) 2022 vikas bhadu
+This project is licensed under [MIT License](https://github.com/beingvikasbhadu/Automatically-Apply-Black-and-White-Effect-On-Images/blob/master/LICENSE) 2022 vikas bhadu
 
 
 # :arrow_upper_right:Future Improvements
